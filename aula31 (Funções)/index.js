@@ -29,4 +29,16 @@ function soma2 (a = 10,b = 5){
 
 soma2(10,55);
 
+//Função anónima
 
+const raiz =  function (num) {
+    return num ** 0.5;
+};
+
+console.log(raiz(25));
+
+//Arrow  function , Função de seta
+
+const saudacao = () => console.log("Bom dia");
+
+saudacao();
