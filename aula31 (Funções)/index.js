@@ -39,6 +39,6 @@ console.log(raiz(25));
 
 //Arrow  function , Função de seta
 
-const saudacao = () => console.log("Bom dia");
+const saudacao = () => console.log("Bom dia2");
 
 saudacao();
