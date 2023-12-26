@@ -42,3 +42,6 @@ console.log(raiz(25));
 const saudacao = () => console.log("Bom dia2");
 
 saudacao();
+ //Função anónima
+const saudacao2 = function() {console.log("Bom dia3");};
+saudacao2();
